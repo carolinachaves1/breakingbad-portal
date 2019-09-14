@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/breakingbad-portal/static/css/main.e1a0d8c2.chunk.css",
+    "main.js": "/breakingbad-portal/static/js/main.8b4779f4.chunk.js",
+    "main.js.map": "/breakingbad-portal/static/js/main.8b4779f4.chunk.js.map",
+    "runtime~main.js": "/breakingbad-portal/static/js/runtime~main.de132d22.js",
+    "runtime~main.js.map": "/breakingbad-portal/static/js/runtime~main.de132d22.js.map",
+    "static/js/2.5b699a36.chunk.js": "/breakingbad-portal/static/js/2.5b699a36.chunk.js",
+    "static/js/2.5b699a36.chunk.js.map": "/breakingbad-portal/static/js/2.5b699a36.chunk.js.map",
+    "index.html": "/breakingbad-portal/index.html",
+    "precache-manifest.3b41cad65137dad67825cfff6fe7098d.js": "/breakingbad-portal/precache-manifest.3b41cad65137dad67825cfff6fe7098d.js",
+    "service-worker.js": "/breakingbad-portal/service-worker.js",
+    "static/css/main.e1a0d8c2.chunk.css.map": "/breakingbad-portal/static/css/main.e1a0d8c2.chunk.css.map",
+    "static/media/unnamed.jpg": "/breakingbad-portal/static/media/unnamed.94e1d840.jpg"
+  }
+}
